@@ -1,4 +1,4 @@
-def Artist
+class Artist
   def initialize(name)
     @name = name
   end
